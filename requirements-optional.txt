@@ -1,0 +1,6 @@
+# Install only if you want transformer / semantic topic extensions.
+torch>=2.2
+transformers>=4.40
+bert-score>=0.3.13
+bertopic>=0.16
+sentence-transformers>=2.7
